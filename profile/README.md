@@ -1,0 +1,1 @@
+This github organization caontains all Tegra 2/3/4 developnemt conducted till approx, mid 2023. After GitHub enforce of 2FA most kernel and u-boot development moved to GitLab. You can find those via this link https://gitlab.com/grate-driver.
